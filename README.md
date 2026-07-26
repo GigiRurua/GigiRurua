@@ -77,5 +77,5 @@ A React Native app for student club discovery, with Google Calendar sync, secure
 
 ### GitHub Stats
 
-![Gigi's GitHub stats](./profile/stats.svg))
+![Gigi's GitHub stats](./profile/stats.svg)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=GigiRurua&hide_border=true)
